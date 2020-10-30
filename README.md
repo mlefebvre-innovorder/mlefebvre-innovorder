@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🔭 I am a Senior JS fullstack developer, mostly on ReactJS + NodeJS and Software Architect.
 - 🌱 I’m currently learning Functional Programming (Monads, Functors, etc...)
-- 👯 I’m looking to collaborate on either an interesting FOSS or a game changing library.
+- 👯 I’m looking to collaborate on either an interesting FOSS, or a game changing library.
 - 🤔 I’m looking for help with how to be a better writer / trainer.
 - 💬 Ask me about anything, I may be able to answer you.
-- 📫 How to reach me: Open up an issue and I'll get back to you.
+- 📫 How to reach me: Open up an issue, and I'll get back to you.
 - 😄 Pronouns: I don't know / I don't care :)
 - ⚡ Fun fact: I'm French ergo I love to rant.
